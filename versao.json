@@ -1,6 +1,6 @@
 {
-  "versao": "1.1.8",
+  "versao": "1.1.9",
   "instalador": "https://github.com/giandomotion/haroldo-gestao-updates/raw/main/Haroldo-Gestao-Instalador.exe",
   "link": "https://github.com/giandomotion/haroldo-gestao-updates",
-  "notas": "Tela de configuracoes mais limpa e botao de atualizar mais direto."
+  "notas": "Pecas e custos por servico com lucro, telefone e nome formatados, e correcoes de tela."
 }
