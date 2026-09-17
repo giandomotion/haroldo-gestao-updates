@@ -1,6 +1,6 @@
 {
-  "versao": "1.1.5",
+  "versao": "1.1.6",
   "instalador": "https://github.com/giandomotion/haroldo-gestao-updates/raw/main/Haroldo-Gestao-Instalador.exe",
   "link": "https://github.com/giandomotion/haroldo-gestao-updates",
-  "notas": "Aviso quando a planilha esta com o codigo antigo e nao apaga os servicos removidos."
+  "notas": "Atualizacoes passam a vir pelo GitHub, mais rapido e sem falhar."
 }
