@@ -1,6 +1,6 @@
 {
-  "versao": "1.1.7",
+  "versao": "1.1.8",
   "instalador": "https://github.com/giandomotion/haroldo-gestao-updates/raw/main/Haroldo-Gestao-Instalador.exe",
   "link": "https://github.com/giandomotion/haroldo-gestao-updates",
-  "notas": "Catalogo destravado, graficos de entrada e saida, despesas em vermelho e aviso do que mudou."
+  "notas": "Tela de configuracoes mais limpa e botao de atualizar mais direto."
 }
