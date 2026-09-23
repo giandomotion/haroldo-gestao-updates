@@ -1,6 +1,6 @@
 {
-  "versao": "1.1.9",
+  "versao": "1.2.0",
   "instalador": "https://github.com/giandomotion/haroldo-gestao-updates/raw/main/Haroldo-Gestao-Instalador.exe",
   "link": "https://github.com/giandomotion/haroldo-gestao-updates",
-  "notas": "Pecas e custos por servico com lucro, telefone e nome formatados, e correcoes de tela."
+  "notas": "Veiculo sem marca, anotar para onde o dinheiro foi, nome de quem lancou e pagina de Ponto."
 }
