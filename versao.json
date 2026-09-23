@@ -1,7 +1,7 @@
 {
-  "versao": "1.2.1",
+  "versao": "1.2.2",
   "instalador": "https://github.com/giandomotion/haroldo-gestao-updates/raw/main/Haroldo-Gestao-Instalador.exe",
   "link": "https://github.com/giandomotion/haroldo-gestao-updates",
-  "sha256": "9d0acbfd4304d39299f7054f77f65679fafe24139ccc57321d236dc6dd7b6fa7",
-  "notas": "Nome de quem usa na saudacao, clima do bairro, Configuracoes organizadas, valores com milhar, pagamentos e busca corrigidos, telas mais vivas."
+  "sha256": "221308a9a1507bede7d2404ceeb5a951af36f5a3e73a8f0026a46ce0026b68c7",
+  "notas": "Caiu onde? no cadastro do servico, modo claro completo e menu do botao direito corrigido no Quadro."
 }
