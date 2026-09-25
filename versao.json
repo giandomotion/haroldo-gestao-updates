@@ -1,7 +1,7 @@
 {
-  "versao": "1.2.3",
+  "versao": "1.2.4",
   "instalador": "https://github.com/giandomotion/haroldo-gestao-updates/raw/main/Haroldo-Gestao-Instalador.exe",
   "link": "https://github.com/giandomotion/haroldo-gestao-updates",
-  "sha256": "482eeb09c67a3aaf844800b5a9c870b54bbdd50c115857d7165c207e9845a497",
-  "notas": "Dashboard novo, Hoje na oficina, responsavel pelo servico, sino de avisos, grafico com lucro e atualizacao mais rapida."
+  "sha256": "1bbec15904dc96314522eb7d9b89ff308be2a13136dfecf385a75df7281a603b",
+  "notas": "Guia passo a passo: mostra na tela onde anotar para onde o dinheiro foi e onde conferir depois."
 }
