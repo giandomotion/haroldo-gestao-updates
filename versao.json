@@ -1,7 +1,7 @@
 {
-  "versao": "1.2.4",
+  "versao": "1.2.5",
   "instalador": "https://github.com/giandomotion/haroldo-gestao-updates/raw/main/Haroldo-Gestao-Instalador.exe",
   "link": "https://github.com/giandomotion/haroldo-gestao-updates",
-  "sha256": "1bbec15904dc96314522eb7d9b89ff308be2a13136dfecf385a75df7281a603b",
-  "notas": "Guia passo a passo: mostra na tela onde anotar para onde o dinheiro foi e onde conferir depois."
+  "sha256": "77dbe745a2da4bb129f50fce1099a9276a6a8c72c782e7c3d5d202e33cf555ab",
+  "notas": "Caderno: um lugar para anotar qualquer coisa, igual ao caderno de papel."
 }
